@@ -2,46 +2,27 @@
 
 A collection of practical JavaScript projects demonstrating core data structures and application logic, deployed live and open-sourced on GitHub.
 
-📱 Contacts App Manager (Map-Based)
+📱 Contacts App Manager 
+live server : https://contacts-app-manager-map-based.vercel.app/
+github : https://github.com/inioluwa-1/Contacts-App-Manager--Map-Based-
 
-A contacts management application built using Map for efficient key-value storage and retrieval.
-
-🔗 Live Demo: View App
-
-💻 Source Code: GitHub Repository
-
-👥 Unique Visitor Tracker (Set-Based)
-
-Tracks unique visitors using Set to ensure no duplicate entries are counted.
-
-🔗 Live Demo: View App
-
-💻 Source Code: GitHub Repository
+👥 Unique Visitor Tracker
+live server : https://unique-visitor-tracker-set-based.vercel.app/
+github : https://github.com/inioluwa-1/Unique-Visitor-Tracker--set-based-
 
 📋 Task Scheduler (Queue-Based)
+ live server : https://task-scheduler-queue-based.vercel.app/
+ github : https://github.com/inioluwa-1/Task-Scheduler--Queue-Based-
 
-A task scheduling system that processes tasks in order using a Queue (FIFO) data structure.
-
-🔗 Live Demo: View App
-
-💻 Source Code: GitHub Repository
-
-🔄 Undo–Redo System (Stack-Based)
-
-Implements undo and redo functionality using Stacks (LIFO), commonly used in editors and applications.
-
-🔗 Live Demo: View App
-
-💻 Source Code: GitHub Repository
+ Undo–Redo System (Stack-Based)
+ live server : https://undo-redo-system-delta.vercel.app/
+ github : https://github.com/inioluwa-1/Undo-Redo-system
+ 
 
 🛠️ Technologies Used
 
 HTML
-
 CSS
-
 JavaScript
-
 Data Structures (Map, Set, Queue, Stack)
-
 Vercel (Deployment)
